@@ -28,6 +28,12 @@ baseline模型问句答案的F1 Score为：
 
 # 代码运行
 
-1，preprocessing.py准备数据
+1，将知识图谱数据放到data/下，数据地址：<http://tcci.ccf.org.cn/conference/2017/taskdata.php>
 
-2，core.py生成结果
+2，将训练好的bert模型参数放到trained_bert_model/下
+
+3，运行preprocessing.py
+
+4，运行main.py生成答案
+
+5，运行calF1生成F1score
