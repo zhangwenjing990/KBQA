@@ -28,9 +28,9 @@ baseline模型问句答案的F1 Score为：
 
 # 代码运行
 
-1，将知识图谱数据放到data/下，数据地址：<http://tcci.ccf.org.cn/conference/2017/taskdata.php>
+1，将知识图谱数据放到 ./data/下，数据地址：<http://tcci.ccf.org.cn/conference/2017/taskdata.php>
 
-2，将训练好的bert模型参数放到trained_bert_model/下
+2，将训练好的bert模型参数放到 ./trained_bert_model/下
 
 3，运行preprocessing.py
 
