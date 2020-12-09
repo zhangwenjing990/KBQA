@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-./data/nlpcc-iccpol-2016.kbqa.kb
+data/nlpcc-iccpol-2016.kbqa.kb
 countChar
 countChar.txt
 kbJson.cleanPre.alias.utf8
@@ -137,3 +137,4 @@ outputAP.txt
 vectorJson.utf8
 test.py
 answer_albert
+data/vec_zhwiki_300mc20.txt
